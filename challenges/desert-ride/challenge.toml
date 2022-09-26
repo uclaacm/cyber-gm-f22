@@ -2,7 +2,7 @@ slug = "desert-ride"
 title = "Desert Ride"
 author = "Stephen"
 value = 20
-description = """Out for a desert ride with your fellow gaucho amigos, when suddenly you spot.. an RV? And is that... WALTER WHITE? It's so hot out, but he's wearing so many layers! What's that behind him, and behind the RV?
+description = """Out for a desert ride with your fellow gaucho amigos, when suddenly you spot.. an RV? And is that... [WALTER WHITE](waltuh.png)? It's so hot out, but he's wearing so many layers! What's that behind him, and behind the RV?
 
 Good thing you got your good friend Steg On-the-Line to help you out. Maybe he can help lasso Walt and his stuff out of the way for you."""
 tags = ["forensics"]
