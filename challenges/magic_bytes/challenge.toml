@@ -1,0 +1,9 @@
+slug = "Magic-bytes"
+title = "Magic bytes"
+author = "James"
+value = 10
+description = """Hmm what is this [image](magicbytes.jpg) that i received, cant seem to open it. I wonder if googling this very creative and interesting title can help?"""
+tags = [ "file_analysis" ]
+files = [magicbytes.jpg]
+flag = "flag{magic_pdf_bytes}"
+enabled = true 
