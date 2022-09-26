@@ -3,7 +3,7 @@ title = "Cowslay 💅"
 author = "Benson"
 value = 15
 description = """
-I just wrote the most amoozing program! It's so slay! Run 'java Cowslay -h' to see how to use this [program]('./Cowslay.class'). **Hint:** You may want to look up what a decompiler is!
+I just wrote the most amoozing program! It's so slay! Run ```java Cowslay -h``` to see how to use this [program](Cowslay.class). **Hint:** You may want to look up what a decompiler is!
 """
 tags = [ "rev eng" ]
 files = [ "Cowslay.class" ]
