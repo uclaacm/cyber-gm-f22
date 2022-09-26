@@ -1,0 +1,11 @@
+slug = "lame_salad"
+title = "Debatably the worst kind of Salad"
+author = "Caolinn"
+value = 10
+description = """
+GCVRJV IVCVRJV DV WIFD KYZJ VKVIERC YVCC-- Z yrmv svve uvru wfi knf kyfljreu jzokp jzo pvrij reu efn Z rd zdfikrczqvu zekf kyzj jkirexv tfdglkvi! Cvk dv uzv! Repnrpj kyv wcrx zj jkrs.
+"""
+tags = [ "cryptography" ]
+files = [ "lame_salad.png" ]
+flag = "flag{stab}"
+enabled = true 
