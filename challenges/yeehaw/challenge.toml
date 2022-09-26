@@ -1,0 +1,9 @@
+slug = "yeehaw"
+title = "Yeehaw"
+author = "Jerry"
+value = 15
+description = """Will you be the [yee](happy.jpg) to my [haw](sad.jpeg)? Hint: Some of the details, in the metadata of these images, seem to have juicy information!"""
+tags = [ "forensics" ]
+files = ["happy.jpg", "sad.jpeg"]
+flag = "flag{i_want_to_be_a_cowboy_baby}"
+enabled = true 
