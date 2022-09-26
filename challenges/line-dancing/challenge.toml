@@ -1,0 +1,9 @@
+slug = "line-dancing"
+title = "Line Dancing"
+author = "Juliet"
+value = 10
+description = """Slide to the right. Then slide to the right. Then slide to the right one more time. World-famous Western singer Caesar just released a new song called "Fdhvdu_Flskhu_ru_Fdhvdu_Vdodg". Did he hide a secret message in the title?"""
+tags = [ "cryptography" ]
+files = []
+flag = "flag{Caesar_Cipher_or_Caesar_Salad}"
+enabled = true
