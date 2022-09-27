@@ -1,0 +1,9 @@
+slug = "cowboy-flag"
+title = "Cowboy Flag"
+author = "Nik"
+value = 10
+description = """I hear there's a secret flag those cow folk like to use... I found some [website claiming to have the flag](https://cyber.wumpler.com/cowboy-flag), but it's "hidden" — can you find it??"""
+tags = [ "websec" ]
+files = []
+flag = "flag{yeehaw_cowboys_and_texas}"
+enabled = true

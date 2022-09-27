@@ -1,0 +1,9 @@
+slug = "cowboy-cookies"
+title = "Cowboy Cookies"
+author = "Nik"
+value = 15
+description = """Cowboys love their **cookies**. In fact, there's a whole type of cookie called the cowboy cookie! I just found a [really sweet recipe](https://cyber.wumpler.com/cowboy-cookies) to make some, you should check it out!"""
+tags = [ "websec" ]
+files = []
+flag = "flag{room_temperature_butter_and_eggs_make_the_best_cookies_duh}"
+enabled = true
