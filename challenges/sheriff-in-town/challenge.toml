@@ -1,0 +1,11 @@
+slug = "sheriff-in-town"
+title = "Sheriff's in Town"
+author = "Laura"
+value = 15
+description = """Yee haw! Howdy partners. It's your friendly neighborhood sheriff Woody! I'm here to give you a little bit of an intro on navigating the Old West. If you want to learn how to speak like a cowboy, help me transcribe [this](yeehaw.txt) message. 
+(Hint: A cowboy might yell "haw haw haw yee yee yee haw haw haw" in times of trouble.)
+(Format as flag{word1_word2_..._wordn}. All lowercase)"""
+tags = [ "cryptography" ]
+files = [ "yeehaw.txt" ]
+flag = "flag{welcome_to_the_wild_wild_west}"
+enabled = true 

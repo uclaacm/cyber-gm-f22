@@ -1,0 +1,15 @@
+slug = "oakley-dokley"
+title = "Oakley Dokley"
+author = "Laura Ness"
+value = 10
+description = """I found the bank where the famous sharpshooter Annie Oakley stores her cash. I was hoping to impersonate her to get access to her bank account, but the bank asked me a bit too many questions about her that I don't know the answer to. Can you help me answer these questions?
+
+(1) Full name 
+(2) Birthplace (County)
+(3) Nickname
+
+(Format: flag{answer1_answer2_answer3}. All lowercase"""
+tags = [ "social engineering" ]
+files = []
+flag = "flag{phoebeannmoses_darkecounty_littlemisssureshot}"
+enabled = true 
