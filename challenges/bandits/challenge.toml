@@ -1,0 +1,9 @@
+slug = "bandits"
+title = "Bandits"
+author = "Laura"
+value = 15
+description = """Look out! We're being attacked by a bunch of bandits! Quick, we need some [way](https://lness02.github.io/wildwildwest/) to keep those crawlers from accessing our page... er, town. Can you help me?"""
+tags = [ "web" ]
+files = []
+flag = "flag{r34ch_4_th3_sky}"
+enabled = true 
