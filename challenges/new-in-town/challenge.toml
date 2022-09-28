@@ -1,0 +1,9 @@
+slug = "new-in-town"
+title = "New in Town"
+author = "Laura"
+value = 10
+description = """Howdy, partner! You seem new in town... Why don't you [take a look](https://lness02.github.io/wildwildwest/style.css) around?"""
+tags = [ "web" ]
+files = []
+flag = "flag{th3r3s_a_sn4ke_in_my_b00t}"
+enabled = true 
