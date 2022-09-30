@@ -9,7 +9,7 @@ description = """I found the bank where the famous sharpshooter Annie Oakley sto
 (3) Nickname
 
 (Format: flag{answer1_answer2_answer3}. All lowercase"""
-tags = [ "social engineering" ]
+tags = [ "OSINT" ]
 files = []
 flag = "flag{phoebeannmoses_darkecounty_littlemisssureshot}"
 enabled = true 

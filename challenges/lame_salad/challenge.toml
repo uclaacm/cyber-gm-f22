@@ -5,7 +5,7 @@ value = 10
 description = """
 GCVRJV IVCVRJV DV WIFD KYZJ VKVIERC YVCC-- Z yrmv svve uvru wfi knf kyfljreu jzokp jzo pvrij reu efn Z rd [zdfikrczqvu](lame_salad.jpg) zekf kyzj jkirexv tfdglkvi! Cvk dv uzv! Repnrpj kyv wcrx zj jkrs.
 """
-tags = [ "cryptography" ]
+tags = [ "crypto" ]
 files = [ "lame_salad.jpg" ]
 flag = "flag{stab}"
 enabled = true 
